@@ -1,4 +1,4 @@
-export default function Blog() {
+export default function Blog Posts() {
   return (
     <div>
       <h2>Blog Posts by Babatunde Titilola</h2>
